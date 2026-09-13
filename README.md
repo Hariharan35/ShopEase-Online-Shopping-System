@@ -135,4 +135,4 @@ This project is open-source and free to use for learning purposes.
 
 ## 🙋 Author
 
-Built by **[Your Name]** — feel free to connect on [LinkedIn](#) or check out more projects on [GitHub](#).
+Built by Hariharan R — feel free to connect on [LinkedIn](#) or check out more projects on [GitHub](#).
