@@ -1,0 +1,30 @@
+[2026-09-11 15:12:47] Viewed product #14 - Stainless Steel Water Bottle 1L
+[2026-09-11 15:14:22] Product ID 14 added to cart (qty 1)
+[2026-09-11 15:14:26] Product ID 12 added to cart (qty 1)
+[2026-09-11 15:16:11] Customer logged in: test@shopease.com
+[2026-09-11 15:17:32] Search performed: "phone"
+[2026-09-11 15:17:51] Viewed product #2 - Smart Fitness Watch
+[2026-09-11 15:19:18] Order #1 placed by customer ID 1 - Total ₹1298
+[2026-09-11 15:19:41] Product ID 1 added to cart (qty 1)
+[2026-09-11 15:20:04] Order #2 placed by customer ID 1 - Total ₹5598
+[2026-09-11 15:20:29] Customer logged out: Test User
+[2026-09-11 15:22:15] New customer registered: nive@gmail.com
+[2026-09-11 15:22:43] Customer logged in: nive@gmail.com
+[2026-09-11 15:23:12] Product ID 14 added to cart (qty 1)
+[2026-09-11 15:23:19] Product ID 12 added to cart (qty 1)
+[2026-09-11 15:24:44] Order #3 placed by customer ID 2 - Total ₹1298
+[2026-09-11 15:25:02] Viewed product #14 - Stainless Steel Water Bottle 1L
+[2026-09-11 15:39:20] Search performed: "sunglassex"
+[2026-09-11 15:39:23] Search performed: "sunglasse"
+[2026-09-11 15:39:28] Search performed: "sunglass"
+[2026-09-11 15:40:03] Viewed product #10 - Best-Seller Novel Collection (3 Books)
+[2026-09-11 15:40:14] Viewed product #4 - Men's Classic Leather Jacket
+[2026-09-11 15:40:21] Viewed product #5 - Women's Running Shoes
+[2026-09-11 15:40:24] Viewed product #6 - Designer Sunglasses
+[2026-09-11 15:40:27] Viewed product #10 - Best-Seller Novel Collection (3 Books)
+[2026-09-11 15:41:01] Product ID 10 added to cart (qty 1)
+[2026-09-11 15:42:14] New customer registered: hariharanr2606@gmail.com
+[2026-09-11 15:43:10] Customer logged in: hariharanr2606@gmail.com
+[2026-09-11 15:43:27] Product ID 14 added to cart (qty 1)
+[2026-09-11 15:43:35] Product ID 1 added to cart (qty 1)
+[2026-09-11 15:44:26] Order #4 placed by customer ID 3 - Total ₹3997
