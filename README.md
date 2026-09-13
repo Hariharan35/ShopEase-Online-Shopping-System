@@ -50,7 +50,7 @@ A full-stack Online Shopping System built with **PHP, MySQL, Bootstrap 5, JavaSc
 
 | Shopping Cart | Checkout | Mobile View |
 |---|---|---|
-| ![Cart](screenshots/06_cart.png) | ![Checkout](screenshots/09_checkout.png) | ![Mobile](screenshots/10_home_mobile.png) |
+| ![Cart](screenshots/06_cart.png) | ![Checkout](screenshots/09_checkout.png)
 
 ---
 
